@@ -7,7 +7,7 @@ I'm a passionate **Software Developer** focusing on **Automation Testing** and *
 ---
 
 * 🌍  I'm based in sitamarhi,Bihar
-* ✉️  You can contact me at [vikash1997chaudhary@gmail.com
+* ✉️  You can contact me at [Email](vikash1997chaudhary@gmail.com)
 * 🧠  I'm learning I'm learn about DSA, Manual Testing, Cypress,JavaScript,API Testing, Selenium.....
 ------------------------------------------------------------------------------------------------
 
